@@ -9,7 +9,7 @@ I am a B.E. student specializing in **Artificial Intelligence & Machine Learning
 ## EDUCATION
 
 **B.E. — Artificial Intelligence & Machine Learning**
-MVJ College of Engineering, Bengaluru | *Currently Pursuing — 5th Semester*
+MVJ College of Engineering, Bengaluru | *Currently Pursuing *
 
 **Pre-University Course (PUC) — PCMC**
 CMR National PU College, Bengaluru | *Completed*
