@@ -1,7 +1,5 @@
 # KRRISH KAMATH
 
-**9934789256** | **[krrishkamath@gmail.com](mailto:krrishkamath@gmail.com)** | **LinkedIn:** linkedin.com/in/krrish-kamath-33561a421/ | **GitHub:** github.com/KrrishKamathh
-
 ## ABOUT ME
 
 I am a B.E. student specializing in **Artificial Intelligence & Machine Learning at MVJ College of Engineering, Bengaluru**, with an interest in programming, artificial intelligence, machine learning, data science, and technology-driven solutions. I enjoy learning new technologies, solving practical problems, and developing projects that address real-world challenges. I am currently focused on strengthening my technical, analytical, and problem-solving skills through academics, projects, and continuous learning.
